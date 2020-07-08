@@ -1,0 +1,108 @@
+{"frames": {
+
+"billboard-backflip.png":
+{
+	"frame": {"x":1,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-bigtux.png":
+{
+	"frame": {"x":75,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-buttjump.png":
+{
+	"frame": {"x":149,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-climbing.png":
+{
+	"frame": {"x":223,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-fireflower.png":
+{
+	"frame": {"x":297,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-pickrock.png":
+{
+	"frame": {"x":371,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-plant.png":
+{
+	"frame": {"x":445,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-resetpoint.png":
+{
+	"frame": {"x":519,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-runjump.png":
+{
+	"frame": {"x":593,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-star.png":
+{
+	"frame": {"x":667,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-switch.png":
+{
+	"frame": {"x":741,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+},
+"billboard-trampoline.png":
+{
+	"frame": {"x":815,"y":1,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":56},
+	"sourceSize": {"w":72,"h":56}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "explanations-sd.png",
+	"format": "RGBA8888",
+	"size": {"w":888,"h":58},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e92ea7f444131b9b163e54674d3af0f:b64b35d6648c062e129437e8feca8f4a:d79810f5e00b9cc09a007fc99cb3bf95$"
+}
+}
