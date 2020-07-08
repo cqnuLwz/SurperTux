@@ -78,7 +78,7 @@ DialogBase {
       finishDialog.opacity = 0
 
       // reset state to play
-      gameScene.state = "play"
+//      gameScene.state = "play"
 
       // go back to menu
       backButtonPressed()
