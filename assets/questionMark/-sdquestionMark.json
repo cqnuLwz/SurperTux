@@ -1,0 +1,60 @@
+{"frames": {
+
+"empty.png":
+{
+	"frame": {"x":1,"y":1,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+"full-0.png":
+{
+	"frame": {"x":11,"y":1,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+"full-1.png":
+{
+	"frame": {"x":21,"y":1,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+"full-2.png":
+{
+	"frame": {"x":31,"y":1,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+"full-3.png":
+{
+	"frame": {"x":41,"y":1,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+"full-4.png":
+{
+	"frame": {"x":51,"y":1,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "questionMark-sd.png",
+	"format": "RGBA8888",
+	"size": {"w":60,"h":10},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:905688ec69e03375a2ce069c2a5ad716:dfcd63837b70b8a5d96047c86fb73e1c:f6b30b063a57d5a652c08504d70ec67e$"
+}
+}
